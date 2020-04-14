@@ -5,7 +5,7 @@
     <link>http://stage.agile-podcast.de/tags/</link>
     <description>Recent content in Tags on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Thu, 20 Feb 2020 19:41:36 +0200</lastBuildDate>
     
 	<atom:link href="http://stage.agile-podcast.de/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -53,15 +53,6 @@
       <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preview</title>
-      <link>http://stage.agile-podcast.de/tags/preview/</link>
-      <pubDate>Mon, 01 Apr 2019 19:41:36 +0200</pubDate>
-      
-      <guid>http://stage.agile-podcast.de/tags/preview/</guid>
       <description></description>
     </item>
     

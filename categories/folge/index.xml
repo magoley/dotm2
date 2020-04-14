@@ -5,7 +5,7 @@
     <link>http://stage.agile-podcast.de/categories/folge/</link>
     <description>Recent content in Folge on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Thu, 20 Feb 2020 19:41:36 +0200</lastBuildDate>
     
 	<atom:link href="http://stage.agile-podcast.de/categories/folge/index.xml" rel="self" type="application/rss+xml" />
@@ -53,7 +53,8 @@
       <pubDate>Sat, 06 Apr 2019 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/blog/folge-4-beta-codex/</guid>
-      <description>Retrospektive zur Episode 4   Infos zu den Inhalten Unser zweiter Gast Peter Pröll, Coach und Moderator für Organisationsentwicklung &amp;amp; Agile Transformationen, stellt uns den Prinzipiensatz des BetaCodex vor.</description>
+      <description>Unser zweiter Gast Peter Pröll, Coach und Moderator für Organisationsentwicklung &amp;amp; Agile Transformationen, stellt uns den Prinzipiensatz des BetaCodex vor.
+Was ist es? Was ist es nicht? Was sind die Benefits?</description>
     </item>
     
   </channel>
