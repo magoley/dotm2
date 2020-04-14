@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Folge on Daily of the Month</title>
+    <link>http://stage.agile-podcast.de/categories/folge/</link>
+    <description>Recent content in Folge on Daily of the Month</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 19:41:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://stage.agile-podcast.de/categories/folge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hefte raus. Klassenarbeit.</title>
+      <link>http://stage.agile-podcast.de/blog/folge-3-hefte-raus-klassenarbeit/</link>
+      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-3-hefte-raus-klassenarbeit/</guid>
+      <description>TEst Test</description>
+    </item>
+    
+    <item>
+      <title>GFK nach Rosenberg</title>
+      <link>http://stage.agile-podcast.de/blog/folge-2-gewaltfreie-kommunikation/</link>
+      <pubDate>Tue, 04 Feb 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-2-gewaltfreie-kommunikation/</guid>
+      <description>TEst Test</description>
+    </item>
+    
+    <item>
+      <title>Working Agreements</title>
+      <link>http://stage.agile-podcast.de/blog/folge-1-working-agreements/</link>
+      <pubDate>Wed, 11 Dec 2019 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-1-working-agreements/</guid>
+      <description>TEst Test</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://stage.agile-podcast.de/blog/folge-0-intro/</link>
+      <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-0-intro/</guid>
+      <description>TEst Test</description>
+    </item>
+    
+    <item>
+      <title>BetaCodex mit Peter Pröll</title>
+      <link>http://stage.agile-podcast.de/blog/folge-4-beta-codex/</link>
+      <pubDate>Sat, 06 Apr 2019 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-4-beta-codex/</guid>
+      <description>Retrospektive zur Episode 4   Infos zu den Inhalten Unser zweiter Gast Peter Pröll, Coach und Moderator für Organisationsentwicklung &amp;amp; Agile Transformationen, stellt uns den Prinzipiensatz des BetaCodex vor.</description>
+    </item>
+    
+  </channel>
+</rss>
