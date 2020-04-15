@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>working agreements on Daily of the Month</title>
+    <link>http://stage.agile-podcast.de/tags/working-agreements/</link>
+    <description>Recent content in working agreements on Daily of the Month</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 11 Dec 2019 19:41:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://stage.agile-podcast.de/tags/working-agreements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working Agreements</title>
+      <link>http://stage.agile-podcast.de/blog/folge-1-working-agreements/</link>
+      <pubDate>Wed, 11 Dec 2019 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-1-working-agreements/</guid>
+      <description>Working Agreements: Was ist das? Wozu braucht man es? Wie geht das? Woran kann es scheitern? All das und mehr erfahrt ihr in einer knappen Stunde Diskussion. Und das ganze bereits vor der großen Bescherung.</description>
+    </item>
+    
+  </channel>
+</rss>

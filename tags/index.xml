@@ -75,11 +75,20 @@
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>http://stage.agile-podcast.de/tags/photos/</link>
+      <title>vegas regel</title>
+      <link>http://stage.agile-podcast.de/tags/vegas-regel/</link>
       <pubDate>Wed, 11 Dec 2019 19:41:36 +0200</pubDate>
       
-      <guid>http://stage.agile-podcast.de/tags/photos/</guid>
+      <guid>http://stage.agile-podcast.de/tags/vegas-regel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working agreements</title>
+      <link>http://stage.agile-podcast.de/tags/working-agreements/</link>
+      <pubDate>Wed, 11 Dec 2019 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/working-agreements/</guid>
       <description></description>
     </item>
     
@@ -98,6 +107,15 @@
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>http://stage.agile-podcast.de/tags/photos/</link>
+      <pubDate>Sat, 06 Apr 2019 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/photos/</guid>
       <description></description>
     </item>
     
