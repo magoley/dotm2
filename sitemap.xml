@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://stage.agile-podcast.de/tags/game/</loc>
-    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://stage.agile-podcast.de/tags/haltung/</loc>
     <lastmod>2020-04-15T19:41:36+02:00</lastmod>
   </url>
@@ -38,22 +33,7 @@
   </url>
   
   <url>
-    <loc>http://stage.agile-podcast.de/tags/new/</loc>
-    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stage.agile-podcast.de/tags/photos/</loc>
-    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://stage.agile-podcast.de/categories/preview/</loc>
-    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stage.agile-podcast.de/tags/python/</loc>
     <lastmod>2020-04-15T19:41:36+02:00</lastmod>
   </url>
   
@@ -63,17 +43,22 @@
   </url>
   
   <url>
-    <loc>http://stage.agile-podcast.de/tags/react/</loc>
-    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://stage.agile-podcast.de/blog/folge-4-2-neue-authorit%C3%A4t/</loc>
     <lastmod>2020-04-15T19:41:36+02:00</lastmod>
   </url>
   
   <url>
+    <loc>http://stage.agile-podcast.de/tags/sozialarbeit/</loc>
+    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://stage.agile-podcast.de/tags/</loc>
+    <lastmod>2020-04-15T19:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/wiederstand/</loc>
     <lastmod>2020-04-15T19:41:36+02:00</lastmod>
   </url>
   
@@ -99,6 +84,11 @@
   
   <url>
     <loc>http://stage.agile-podcast.de/blog/folge-5-agile-schule/</loc>
+    <lastmod>2020-03-06T19:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/montessori/</loc>
     <lastmod>2020-03-06T19:41:36+02:00</lastmod>
   </url>
   
@@ -200,6 +190,26 @@
   <url>
     <loc>http://stage.agile-podcast.de/blog/</loc>
     <lastmod>2019-01-29T13:49:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/game/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/new/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/photos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/python/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/react/</loc>
   </url>
   
   <url>
