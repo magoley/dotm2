@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 20 Feb 2020 19:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 19:41:36 +0200</lastBuildDate>
     
 	<atom:link href="http://stage.agile-podcast.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,52 +14,133 @@
     <item>
       <title>Game</title>
       <link>http://stage.agile-podcast.de/tags/game/</link>
-      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gfk</title>
-      <link>http://stage.agile-podcast.de/tags/gfk/</link>
-      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      <title>Haltung</title>
+      <link>http://stage.agile-podcast.de/tags/haltung/</link>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>http://stage.agile-podcast.de/tags/gfk/</guid>
+      <guid>http://stage.agile-podcast.de/tags/haltung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neue Authorität</title>
+      <link>http://stage.agile-podcast.de/tags/neue-authorit%C3%A4t/</link>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/neue-authorit%C3%A4t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
       <link>http://stage.agile-podcast.de/tags/new/</link>
-      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Photos</title>
+      <link>http://stage.agile-podcast.de/tags/photos/</link>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>http://stage.agile-podcast.de/tags/python/</link>
-      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Pädagogik</title>
+      <link>http://stage.agile-podcast.de/tags/p%C3%A4dagogik/</link>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/p%C3%A4dagogik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>React</title>
       <link>http://stage.agile-podcast.de/tags/react/</link>
-      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>BetaCodex</title>
+      <link>http://stage.agile-podcast.de/tags/betacodex/</link>
+      <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/betacodex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organisationsentwicklung</title>
+      <link>http://stage.agile-podcast.de/tags/organisationsentwicklung/</link>
+      <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/organisationsentwicklung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation</title>
+      <link>http://stage.agile-podcast.de/tags/transformation/</link>
+      <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/transformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Manifesto</title>
+      <link>http://stage.agile-podcast.de/tags/agile-manifesto/</link>
+      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/agile-manifesto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lean</title>
+      <link>http://stage.agile-podcast.de/tags/lean/</link>
+      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/lean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum</title>
+      <link>http://stage.agile-podcast.de/tags/scrum/</link>
+      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gewaltfreie Kommunikation</title>
       <link>http://stage.agile-podcast.de/tags/gewaltfreie-kommunikation/</link>
-      <pubDate>Tue, 04 Feb 2020 19:41:36 +0200</pubDate>
+      <pubDate>Mon, 13 Jan 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/gewaltfreie-kommunikation/</guid>
       <description></description>
@@ -68,7 +149,7 @@
     <item>
       <title>Rosenberg</title>
       <link>http://stage.agile-podcast.de/tags/rosenberg/</link>
-      <pubDate>Tue, 04 Feb 2020 19:41:36 +0200</pubDate>
+      <pubDate>Mon, 13 Jan 2020 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/rosenberg/</guid>
       <description></description>
@@ -107,24 +188,6 @@
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
       <guid>http://stage.agile-podcast.de/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>http://stage.agile-podcast.de/tags/photos/</link>
-      <pubDate>Sat, 06 Apr 2019 19:41:36 +0200</pubDate>
-      
-      <guid>http://stage.agile-podcast.de/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neue Authorität</title>
-      <link>http://stage.agile-podcast.de/tags/neue-authorit%C3%A4t/</link>
-      <pubDate>Mon, 01 Apr 2019 19:41:36 +0200</pubDate>
-      
-      <guid>http://stage.agile-podcast.de/tags/neue-authorit%C3%A4t/</guid>
       <description></description>
     </item>
     

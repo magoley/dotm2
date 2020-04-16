@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile Manifesto on Daily of the Month</title>
+    <link>http://stage.agile-podcast.de/tags/agile-manifesto/</link>
+    <description>Recent content in Agile Manifesto on Daily of the Month</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 20 Feb 2020 19:41:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://stage.agile-podcast.de/tags/agile-manifesto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hefte raus. Klassenarbeit.</title>
+      <link>http://stage.agile-podcast.de/blog/folge-3-hefte-raus-klassenarbeit/</link>
+      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
+      
+      <guid>http://stage.agile-podcast.de/blog/folge-3-hefte-raus-klassenarbeit/</guid>
+      <description>In dieser Folge spielen wir Buzzword-Bingo mit Tiefgang: Ätsch Isle, Schkramm, der Manni Festo und weitere Vokabeln erklären wir einmal ganz in Ruhe und mit Kaltgetränk in der Hand.</description>
+    </item>
+    
+  </channel>
+</rss>
