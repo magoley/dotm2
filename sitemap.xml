@@ -63,6 +63,16 @@
   </url>
   
   <url>
+    <loc>http://stage.agile-podcast.de/contact/error/</loc>
+    <lastmod>2020-04-06T19:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/contact/thankyou/</loc>
+    <lastmod>2020-04-06T19:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://stage.agile-podcast.de/imprint/datenschutz/</loc>
     <lastmod>2020-04-06T19:41:36+02:00</lastmod>
   </url>
@@ -193,27 +203,11 @@
   </url>
   
   <url>
-    <loc>http://stage.agile-podcast.de/tags/game/</loc>
-  </url>
-  
-  <url>
-    <loc>http://stage.agile-podcast.de/tags/new/</loc>
-  </url>
-  
-  <url>
-    <loc>http://stage.agile-podcast.de/tags/photos/</loc>
-  </url>
-  
-  <url>
-    <loc>http://stage.agile-podcast.de/tags/python/</loc>
-  </url>
-  
-  <url>
-    <loc>http://stage.agile-podcast.de/tags/react/</loc>
-  </url>
-  
-  <url>
     <loc>http://stage.agile-podcast.de/blog/folge-n/</loc>
+  </url>
+  
+  <url>
+    <loc>http://stage.agile-podcast.de/tags/zukunftsgedanken/</loc>
   </url>
   
 </urlset>
