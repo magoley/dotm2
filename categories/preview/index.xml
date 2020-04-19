@@ -2,39 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preview on Daily of the Month</title>
-    <link>http://stage.agile-podcast.de/categories/preview/</link>
+    <link>https://www.agile-podcast.de/categories/preview/</link>
     <description>Recent content in Preview on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 15 Apr 2020 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="http://stage.agile-podcast.de/categories/preview/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agile-podcast.de/categories/preview/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Aber bitte mit Soze</title>
-      <link>http://stage.agile-podcast.de/blog/folge-6-sozialarbeiter-gruppendynamik/</link>
-      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
-      
-      <guid>http://stage.agile-podcast.de/blog/folge-6-sozialarbeiter-gruppendynamik/</guid>
-      <description>Nächste Perspektivdrehung führt uns in den Bereich der sozialen Arbeit. Ist die Selbstorganisation hier ein Selbstläufer? Lernt hier auch der Agile-Zirkushund noch neue Tricks? Finden wir es gemeinsam raus.</description>
-    </item>
-    
-    <item>
-      <title>Fliegendes Klassenzimmer</title>
-      <link>http://stage.agile-podcast.de/blog/folge-5-agile-schule/</link>
-      <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
-      
-      <guid>http://stage.agile-podcast.de/blog/folge-5-agile-schule/</guid>
-      <description>Wie sollen wir später im Beruf Selbstorganisation im Blut haben, wenn unsere Schulen das nicht intravenös injezieren? Was tut sich dazu bereits in unseren Bildungsstätten? Lust auf eine Stunde nachsitzen im PodCast?</description>
-    </item>
     
     <item>
       <title>Surprise.Surprise</title>
-      <link>http://stage.agile-podcast.de/blog/folge-n/</link>
+      <link>https://www.agile-podcast.de/blog/folge-n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://stage.agile-podcast.de/blog/folge-n/</guid>
+      <guid>https://www.agile-podcast.de/blog/folge-n/</guid>
       <description>Wir wollen es ja nicht übertreiben mit der Langfristplanung. Daher seht es uns nach, dass die weiteren Folge noch nicht feststehen. Fest steht einzig, dass wir noch viele Ideen und Gedanken im Köcher haben.</description>
     </item>
     

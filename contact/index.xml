@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get In Touch on Daily of the Month</title>
-    <link>http://stage.agile-podcast.de/contact/</link>
+    <link>https://www.agile-podcast.de/contact/</link>
     <description>Recent content in Get In Touch on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="http://stage.agile-podcast.de/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agile-podcast.de/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bestätigung Kontaktaufnahme</title>
-      <link>http://stage.agile-podcast.de/contact/error/</link>
+      <link>https://www.agile-podcast.de/contact/error/</link>
       <pubDate>Mon, 06 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>http://stage.agile-podcast.de/contact/error/</guid>
+      <guid>https://www.agile-podcast.de/contact/error/</guid>
       <description>Hups, deine Nachricht konnte nicht gesendet werden.
 Beste Grüße
 Dein Daily-Team
@@ -26,10 +26,10 @@ Zurück zur Startseite</description>
     
     <item>
       <title>Bestätigung Kontaktaufnahme</title>
-      <link>http://stage.agile-podcast.de/contact/thankyou/</link>
+      <link>https://www.agile-podcast.de/contact/thankyou/</link>
       <pubDate>Mon, 06 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>http://stage.agile-podcast.de/contact/thankyou/</guid>
+      <guid>https://www.agile-podcast.de/contact/thankyou/</guid>
       <description>Danke, deine Nachricht ist auf dem Weg zu uns.
 Beste Grüße
 Dein Daily-Team

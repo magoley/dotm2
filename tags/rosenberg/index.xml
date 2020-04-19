@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rosenberg on Daily of the Month</title>
-    <link>http://stage.agile-podcast.de/tags/rosenberg/</link>
+    <link>https://www.agile-podcast.de/tags/rosenberg/</link>
     <description>Recent content in Rosenberg on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 13 Jan 2020 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="http://stage.agile-podcast.de/tags/rosenberg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agile-podcast.de/tags/rosenberg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GFK nach Rosenberg</title>
-      <link>http://stage.agile-podcast.de/blog/folge-2-gewaltfreie-kommunikation/</link>
+      <link>https://www.agile-podcast.de/blog/folge-2-gewaltfreie-kommunikation/</link>
       <pubDate>Mon, 13 Jan 2020 19:41:36 +0200</pubDate>
       
-      <guid>http://stage.agile-podcast.de/blog/folge-2-gewaltfreie-kommunikation/</guid>
+      <guid>https://www.agile-podcast.de/blog/folge-2-gewaltfreie-kommunikation/</guid>
       <description>In dieser Folge diskutieren wir mit unserem ersten Gast Markus Rossmann, seines Zeichens Kommunikationstrainer, Scrum Master und Konsens-Moderator, die grundlegende Idee und menschliche Haltung der Gewaltfreien Kommunikation nach Marshall B.</description>
     </item>
     

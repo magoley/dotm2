@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Widerstand on Daily of the Month</title>
+    <link>https://www.agile-podcast.de/tags/widerstand/</link>
+    <description>Recent content in Widerstand on Daily of the Month</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 15 Apr 2020 19:41:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.agile-podcast.de/tags/widerstand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Respect my Authorata</title>
+      <link>https://www.agile-podcast.de/blog/folge-5-neue-autoritaet/</link>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/folge-5-neue-autoritaet/</guid>
+      <description>Wir sprechen mit dem Autoritätsforscher und Autor Frank H. Baumann-Habersack u.a. über sein Buch &amp;ldquo;Mit neuer Autoratität in Führung&amp;rdquo;. Alte Härte, Laissez-faire und was kommt jetzt? BTW wieso gibt es jetzt 2 Dailies in einem Month?</description>
+    </item>
+    
+  </channel>
+</rss>

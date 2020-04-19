@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Daily of the Month</title>
-    <link>http://stage.agile-podcast.de/categories/</link>
+    <link>https://www.agile-podcast.de/categories/</link>
     <description>Recent content in Categories on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 15 Apr 2020 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="http://stage.agile-podcast.de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.agile-podcast.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Folge</title>
-      <link>http://stage.agile-podcast.de/categories/folge/</link>
+      <link>https://www.agile-podcast.de/categories/folge/</link>
       <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>http://stage.agile-podcast.de/categories/folge/</guid>
+      <guid>https://www.agile-podcast.de/categories/folge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preview</title>
-      <link>http://stage.agile-podcast.de/categories/preview/</link>
-      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
+      <link>https://www.agile-podcast.de/categories/preview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://stage.agile-podcast.de/categories/preview/</guid>
+      <guid>https://www.agile-podcast.de/categories/preview/</guid>
       <description></description>
     </item>
     
