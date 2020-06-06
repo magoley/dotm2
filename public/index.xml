@@ -6,10 +6,20 @@
     <description>Recent content on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 08 May 2020 19:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 19:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>D/Scrum Rudiments</title>
+      <link>https://www.agile-podcast.de/blog/folge-7-scrum-rudiments/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/folge-7-scrum-rudiments/</guid>
+      <description>&amp;ldquo;Rechts-Links-Rechts-Rechts-Links-Rechts-Links-Links &amp;hellip; und immer schön im Flow bleiben.&amp;rdquo;
+Wir sprechen mit Agile Coach Andreas G. Wittler über &amp;ldquo;Scrum Rudiments&amp;quot;: Basisfertigkeiten, die er seinen Teams im Sinne des &amp;ldquo;Heart of Agile&amp;rdquo; im wahrsten Sinne ans Herz legt.</description>
+    </item>
     
     <item>
       <title>Fliegendes Klassenzimmer</title>
@@ -17,7 +27,7 @@
       <pubDate>Fri, 08 May 2020 19:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/blog/folge-6-agile-schule/</guid>
-      <description>Wie sollen wir später im Beruf Selbstorganisation im Blut haben, wenn unsere Schulen das nicht intravenös injezieren? Was tut sich dazu bereits in unseren Bildungsstätten? Lust auf eine Stunde nachsitzen im PodCast?</description>
+      <description>Euer verhaltensorigineller PodCast spricht mit Führungspersönlichkeiten aus Aachener Schulen, in denen Selbstorganisation und Authorität durch Beziehung nicht nur als frommer Wunsch an der Wand hängt sondern bereits programmatisch verankert wurde.</description>
     </item>
     
     <item>
@@ -31,10 +41,10 @@
     
     <item>
       <title>Aber bitte mit Soze</title>
-      <link>https://www.agile-podcast.de/blog/folge-7-sozialarbeiter-gruppendynamik/</link>
+      <link>https://www.agile-podcast.de/blog/folge-8-sozialarbeiter-gruppendynamik/</link>
       <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-7-sozialarbeiter-gruppendynamik/</guid>
+      <guid>https://www.agile-podcast.de/blog/folge-8-sozialarbeiter-gruppendynamik/</guid>
       <description>Nächste Perspektivdrehung führt uns in den Bereich der sozialen Arbeit. Ist die Selbstorganisation hier ein Selbstläufer? Lernt hier auch der Agile-Zirkushund noch neue Tricks? Finden wir es gemeinsam raus.</description>
     </item>
     

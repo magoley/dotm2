@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 08 May 2020 19:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 19:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile Coaching</title>
+      <link>https://www.agile-podcast.de/tags/agile-coaching/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/agile-coaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heart of Agile</title>
+      <link>https://www.agile-podcast.de/tags/heart-of-agile/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/heart-of-agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberating Structures</title>
+      <link>https://www.agile-podcast.de/tags/liberating-structures/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/liberating-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum</title>
+      <link>https://www.agile-podcast.de/tags/scrum/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum Rudiments</title>
+      <link>https://www.agile-podcast.de/tags/scrum-rudiments/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/scrum-rudiments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Montessori</title>
@@ -134,15 +179,6 @@
       <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/tags/lean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scrum</title>
-      <link>https://www.agile-podcast.de/tags/scrum/</link>
-      <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/scrum/</guid>
       <description></description>
     </item>
     

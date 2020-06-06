@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 08 May 2020 19:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 19:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Folge</title>
+      <link>https://www.agile-podcast.de/categories/folge/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/categories/folge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Preview</title>
@@ -17,15 +26,6 @@
       <pubDate>Fri, 08 May 2020 19:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/categories/preview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Folge</title>
-      <link>https://www.agile-podcast.de/categories/folge/</link>
-      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/folge/</guid>
       <description></description>
     </item>
     

@@ -48,7 +48,7 @@ Als Ehrengast begleitete Markus Knabe-Roth, unser Local Hero vom Aachener Scrumt
   -	Martin Spätling, didaktischer Leiter an der 4. Aachener Gesamtschule
 {{< gallery dir="gallery/folge6/martin" />}}
 
-Nach etwas über einer Stunde „*wertschätzender*“ und lebendiger Diskussion setzen wir zu Landung an und konnten damit auch das Gerücht widerlegen, dass das Beamtentum stets zum pünktlichen Feierabend strebt.
+Nach etwas über einer Stunde „*wertschätzender*“ und lebendiger Diskussion setzen wir zur Landung an und konnten damit auch das Gerücht widerlegen, dass das Beamtentum stets zum pünktlichen Feierabend strebt.
 Nicht widerlegen konnten wir leider die erneut etwas schwierige Audio-Situation aufgrund der aktuellen Corona-bedingten Fernkonferenz. Wir freuen uns jetzt bereits wieder auf die Nähe zu unseren Gästen, wenn es die gesundheitliche Situation zulässt.
 
 Sollte ihr beim oder nach dem Hören der Folge Fragen oder Anregungen haben, meldet Euch bei uns.
@@ -58,11 +58,7 @@ Winke winke aus dem Cockpit Eures Daily
 
 **Chris, Joshua, Markus**
 
-{{< rawhtml >}}<!--Abstand 60px --> <div style="padding-top:30px;"></div>{{< /rawhtml >}}
 
-P.S. Erneut mussten wir leider ein paar Abstriche bei der Tonaufnahmen in Kauf nehmen. Wir hoffen und sehnen uns bereits auf den Tag, wo wir uns wieder in einem Raum treffen. Bis dahin bleibt solidarisch.
-
-{{< gallery dir="gallery/folge6/screenshot" />}}
 
 {{< rawhtml >}}<!--Abstand 60px --> <div style="padding-top:60px;"></div>{{< /rawhtml >}}
 

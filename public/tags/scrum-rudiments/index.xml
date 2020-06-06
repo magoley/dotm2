@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scrum Rudiments on Daily of the Month</title>
+    <link>https://www.agile-podcast.de/tags/scrum-rudiments/</link>
+    <description>Recent content in Scrum Rudiments on Daily of the Month</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 29 May 2020 19:41:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.agile-podcast.de/tags/scrum-rudiments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D/Scrum Rudiments</title>
+      <link>https://www.agile-podcast.de/blog/folge-7-scrum-rudiments/</link>
+      <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/folge-7-scrum-rudiments/</guid>
+      <description>&amp;ldquo;Rechts-Links-Rechts-Rechts-Links-Rechts-Links-Links &amp;hellip; und immer schön im Flow bleiben.&amp;rdquo;
+Wir sprechen mit Agile Coach Andreas G. Wittler über &amp;ldquo;Scrum Rudiments&amp;quot;: Basisfertigkeiten, die er seinen Teams im Sinne des &amp;ldquo;Heart of Agile&amp;rdquo; im wahrsten Sinne ans Herz legt.</description>
+    </item>
+    
+  </channel>
+</rss>
