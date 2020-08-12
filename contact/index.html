@@ -172,7 +172,37 @@ font-family: pacifico;">Daily of the Month</p> </a>
     <div class="row justify-content-center">
       <row>
         
-       
+          
+  
+  
+  <section style="margin-top: 60px">
+    <h2>Wir freuen uns über Nachrichten von Dir.</h2>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <div style="margin: 30px -15px;">
+      <form name="contact" method="POST" data-netlify="true">
+        <p>
+          <label>Your Name: <input type="text" name="name" /></label>   
+        </p>
+        <p>
+          <label>Your Email: <input type="email" name="email" /></label>
+        </p>
+        <p>
+          <label>Your Role: <select name="role[]" multiple>
+            <option value="leader">Leader</option>
+            <option value="follower">Follower</option>
+          </select></label>
+        </p>
+        <p>
+          <label>Message: <textarea name="message"></textarea></label>
+        </p>
+        <p>
+          <button type="submit">Send</button>
+        </p>
+      </form>
+      
+  </div>    
+   </section>
+   
       
       <div class="col-12 text-center mb-5" style="padding-top: 40px;">
         <a href="https://www.agile-podcast.de/" style="width:100%;"><img src="/images/dotm-logokl.png" alt="Daily of the Month"></a>
