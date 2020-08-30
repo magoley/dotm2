@@ -6,10 +6,19 @@
     <description>Recent content on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 22 Jul 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 15:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ego-Eco / Retro-Coach</title>
+      <link>https://www.agile-podcast.de/blog/folge-10-ego-eco-retro-coaching/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/folge-10-ego-eco-retro-coaching/</guid>
+      <description>Nach der internen Rotation um den Planeten Ego im Arbeits-Ökosystem hatten wir ein massives Schleudertrauma. Dank des psychologischen Coachings mit Melanie Braun sind wir nun wieder entschleunigt. Viel Spaß beim endsommerlichen Retro-Plausch mit Gin &amp;amp; Blumen.</description>
+    </item>
     
     <item>
       <title>Authent-Ich</title>
@@ -17,15 +26,15 @@
       <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/blog/folge-9-authentisch-sein/</guid>
-      <description>Prequel In Teams prallen verschiedene Bedürfnisse aufeinander. Das, was uns unterscheidet, ist aber auch der Motor für die Leistung der Gruppe. Aber wie viel &amp;ldquo;ich&amp;rdquo; ist gesund? 3 Egos werden sich der Frage annehmen.</description>
+      <description>In Teams prallen verschiedene Bedürfnisse aufeinander. Das, was uns unterscheidet, ist aber auch der Motor für die Leistung der Gruppe. Aber wie viel &amp;ldquo;ich&amp;rdquo; ist gesund? 3 Egos werden sich der Frage annehmen.</description>
     </item>
     
     <item>
       <title>1,2 oder 3. Letzte Chance. Vorbei.</title>
-      <link>https://www.agile-podcast.de/blog/folge-10-12-oder-3/</link>
+      <link>https://www.agile-podcast.de/blog/folge-12-entscheidungen-in-gruppe/</link>
       <pubDate>Tue, 21 Jul 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-10-12-oder-3/</guid>
+      <guid>https://www.agile-podcast.de/blog/folge-12-entscheidungen-in-gruppe/</guid>
       <description>Das Leben ist vollgestopft mit dieser Aufgabe, trotzdem hadern wir oft mit dem Thema. Wer darf Sie treffen? Wie sollen wir Sie erarbeiten? Wann ist sie gut/schlecht? Entscheidet selber.</description>
     </item>
     
@@ -69,10 +78,10 @@ Wir sprechen mit Agile Coach Andreas G. Wittler über &amp;ldquo;Scrum Rudiments
     
     <item>
       <title>Diesseits der Stille</title>
-      <link>https://www.agile-podcast.de/blog/folge-12-diesseits-der-stille/</link>
+      <link>https://www.agile-podcast.de/blog/folge-13-power-of-quiet/</link>
       <pubDate>Sun, 19 Apr 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-12-diesseits-der-stille/</guid>
+      <guid>https://www.agile-podcast.de/blog/folge-13-power-of-quiet/</guid>
       <description>Susan Cain brach mit Ihrem Buch &amp;ldquo;Quiet&amp;rdquo; eine Lanze für Menschen, die häufig mit dem Label &amp;ldquo;introvertiert&amp;rdquo; bezeichnet werden: Sie stellte klar, dass dieser Charakterzug keine &amp;ldquo;Schwäche&amp;rdquo; sondern vor allem ein großen Potenzial darstellt.</description>
     </item>
     
@@ -164,149 +173,6 @@ Was ist es? Was ist es nicht? Was sind die Benefits?</description>
       
       <guid>https://www.agile-podcast.de/blog/folge-0-intro/</guid>
       <description>Klassiker: Den ersten Sprung ins kalte Wasser haben wir direkt aufgenommen. In der Folge erläutern wir, warum und für wen wir unter die PodCastLer gegangen sind. Und teilen weitere Verrücktheiten, die im Kontext unseres frisch geschlüpften PodCast-Küken Daily of the Month entstanden sind.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-10/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-10/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-11/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-11/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-12/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-12/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-2/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-2/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-3/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-3/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-4/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-4/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-5/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-5/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-6/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-7/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-7/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-8/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-8/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://www.agile-podcast.de/scrumtime/post-9/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/scrumtime/post-9/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.</description>
     </item>
     
     <item>

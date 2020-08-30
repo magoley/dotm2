@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 22 Jul 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 15:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Preview</title>
       <link>https://www.agile-podcast.de/categories/preview/</link>
-      <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/categories/preview/</guid>
       <description></description>
@@ -26,69 +26,6 @@
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/categories/folge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go Language</title>
-      <link>https://www.agile-podcast.de/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/go-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://www.agile-podcast.de/categories/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://www.agile-podcast.de/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mindset</title>
-      <link>https://www.agile-podcast.de/categories/mindset/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/mindset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>https://www.agile-podcast.de/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/programming-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://www.agile-podcast.de/categories/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://www.agile-podcast.de/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/categories/web-design/</guid>
       <description></description>
     </item>
     

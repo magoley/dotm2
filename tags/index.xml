@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 22 Jul 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 15:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>coaching</title>
+      <link>https://www.agile-podcast.de/tags/coaching/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/coaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>identität</title>
+      <link>https://www.agile-podcast.de/tags/identit%C3%A4t/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/identit%C3%A4t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mentales-training</title>
+      <link>https://www.agile-podcast.de/tags/mentales-training/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/mentales-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychologische beratung</title>
+      <link>https://www.agile-podcast.de/tags/psychologische-beratung/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/psychologische-beratung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilienz</title>
+      <link>https://www.agile-podcast.de/tags/resilienz/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/resilienz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selbstwirksamkeit</title>
+      <link>https://www.agile-podcast.de/tags/selbstwirksamkeit/</link>
+      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/selbstwirksamkeit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Authentizität</title>
@@ -26,15 +80,6 @@
       <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/tags/ego-to-eco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>identität</title>
-      <link>https://www.agile-podcast.de/tags/identit%C3%A4t/</link>
-      <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/identit%C3%A4t/</guid>
       <description></description>
     </item>
     
@@ -300,15 +345,6 @@
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://www.agile-podcast.de/tags/new/</link>
-      <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>New Work</title>
       <link>https://www.agile-podcast.de/tags/new-work/</link>
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
@@ -332,51 +368,6 @@
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://www.agile-podcast.de/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://www.agile-podcast.de/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://www.agile-podcast.de/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://www.agile-podcast.de/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://www.agile-podcast.de/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/react/</guid>
       <description></description>
     </item>
     

@@ -113,7 +113,7 @@ font-family: pacifico;">Daily of the Month</p> </a>
         
         <!-- search -->
         <div class="search px-4">
-          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <button id="searchOpen" class="search-btn" style="color: black;"><i class="ti-search"></i></button>
           <div class="search-wrapper">
             <form action="https://www.agile-podcast.de//search" class="h-100">
               <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
@@ -161,6 +161,7 @@ font-family: pacifico;">Daily of the Month</p> </a>
             Aachen, NRW
           </div>
         </div>
+        
       </div>
     </div>
   </div>
@@ -168,7 +169,7 @@ font-family: pacifico;">Daily of the Month</p> </a>
 
 
 <section class="section-sm pb-0">
-  <div class="container">
+  
     <div class="row justify-content-center">
       <row>
         
@@ -178,28 +179,29 @@ font-family: pacifico;">Daily of the Month</p> </a>
   <section style="margin-top: 60px">
     <h2>Wir freuen uns über Nachrichten von Dir.</h2>
     <script src="https://www.google.com/recaptcha/api.js"></script>
-    <div style="margin: 30px -15px;">
-      <form name="contact" method="POST" data-netlify="true">
+    <div style="margin: 30px -15px;width: inherit;"></div>
+    
+        <form method="POST" action="https://formspree.io/chris@dailyofthemonth.de">
         <p>
-          <label>Your Name: <input type="text" name="name" /></label>   
+          <label>Your Name: <br/><input type="text" name="name" / >
+            
+        </label>   
         </p>
         <p>
-          <label>Your Email: <input type="email" name="email" /></label>
+          <label>Your Email: <br/><input type="email" name="email" /></label>
         </p>
+        
         <p>
-          <label>Your Role: <select name="role[]" multiple>
-            <option value="leader">Leader</option>
-            <option value="follower">Follower</option>
-          </select></label>
+          <label>Your Message: <br/><textarea name="message"></textarea></label>
         </p>
-        <p>
-          <label>Message: <textarea name="message"></textarea></label>
-        </p>
+        <div class="hpot">
+          <label>Leave this field empty: <input name="_gotcha"></label>
+        </div>
         <p>
           <button type="submit">Send</button>
         </p>
       </form>
-      
+     
   </div>    
    </section>
    
@@ -209,7 +211,7 @@ font-family: pacifico;">Daily of the Month</p> </a>
       </div>
       </row>
     </div>
-  </div>
+  
 </section>
 
 

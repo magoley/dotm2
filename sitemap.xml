@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.agile-podcast.de/categories/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/coaching/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/blog/folge-10-ego-eco-retro-coaching/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/identit%C3%A4t/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/mentales-training/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/categories/preview/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/psychologische-beratung/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/resilienz/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/selbstwirksamkeit/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/</loc>
+    <lastmod>2020-08-28T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.agile-podcast.de/blog/folge-9-authentisch-sein/</loc>
     <lastmod>2020-07-22T15:41:36+02:00</lastmod>
   </url>
@@ -13,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/categories/</loc>
-    <lastmod>2020-07-22T15:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/</loc>
-    <lastmod>2020-07-22T15:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.agile-podcast.de/tags/ego-to-eco/</loc>
-    <lastmod>2020-07-22T15:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/tags/identit%C3%A4t/</loc>
     <lastmod>2020-07-22T15:41:36+02:00</lastmod>
   </url>
   
@@ -38,22 +78,12 @@
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/categories/preview/</loc>
-    <lastmod>2020-07-22T15:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.agile-podcast.de/tags/self-awareness/</loc>
     <lastmod>2020-07-22T15:41:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/tags/</loc>
-    <lastmod>2020-07-22T15:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/blog/folge-10-12-oder-3/</loc>
+    <loc>https://www.agile-podcast.de/blog/folge-12-entscheidungen-in-gruppe/</loc>
     <lastmod>2020-07-21T15:41:36+02:00</lastmod>
   </url>
   
@@ -158,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/blog/folge-12-diesseits-der-stille/</loc>
+    <loc>https://www.agile-podcast.de/blog/folge-13-power-of-quiet/</loc>
     <lastmod>2020-04-19T15:41:36+02:00</lastmod>
   </url>
   
@@ -273,11 +303,6 @@
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/tags/new/</loc>
-    <lastmod>2019-11-10T19:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.agile-podcast.de/tags/new-work/</loc>
     <lastmod>2019-11-10T19:41:36+02:00</lastmod>
   </url>
@@ -293,11 +318,6 @@
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/scrumtime/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.agile-podcast.de/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
@@ -310,131 +330,6 @@
   <url>
     <loc>https://www.agile-podcast.de/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-1/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-10/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-11/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-12/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-2/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-3/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-4/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-5/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-6/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-7/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-8/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/scrumtime/post-9/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/html-css/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/mindset/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/programming-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.agile-podcast.de/categories/web-design/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
