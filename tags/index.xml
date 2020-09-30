@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 28 Aug 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2020 15:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>coaching</title>
       <link>https://www.agile-podcast.de/tags/coaching/</link>
-      <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
+      <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/tags/coaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gewaltfreie-kommunikation</title>
+      <link>https://www.agile-podcast.de/tags/gewaltfreie-kommunikation/</link>
+      <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/gewaltfreie-kommunikation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gruppenentscheidungen</title>
+      <link>https://www.agile-podcast.de/tags/gruppenentscheidungen/</link>
+      <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/gruppenentscheidungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moderation</title>
+      <link>https://www.agile-podcast.de/tags/moderation/</link>
+      <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/moderation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soziokratie</title>
+      <link>https://www.agile-podcast.de/tags/soziokratie/</link>
+      <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/soziokratie/</guid>
       <description></description>
     </item>
     
@@ -107,15 +143,6 @@
       <pubDate>Tue, 21 Jul 2020 15:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/tags/change-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Widerstand</title>
-      <link>https://www.agile-podcast.de/tags/widerstand/</link>
-      <pubDate>Tue, 21 Jul 2020 15:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/widerstand/</guid>
       <description></description>
     </item>
     
@@ -264,6 +291,15 @@
     </item>
     
     <item>
+      <title>Widerstand</title>
+      <link>https://www.agile-podcast.de/tags/widerstand/</link>
+      <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/tags/widerstand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BetaCodex</title>
       <link>https://www.agile-podcast.de/tags/betacodex/</link>
       <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
@@ -305,15 +341,6 @@
       <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
       
       <guid>https://www.agile-podcast.de/tags/lean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gewaltfreie Kommunikation</title>
-      <link>https://www.agile-podcast.de/tags/gewaltfreie-kommunikation/</link>
-      <pubDate>Mon, 13 Jan 2020 19:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/gewaltfreie-kommunikation/</guid>
       <description></description>
     </item>
     

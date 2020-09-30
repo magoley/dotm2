@@ -6,10 +6,19 @@
     <description>Recent content in Preview on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 28 Aug 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2020 15:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/categories/preview/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entscheiden: 1,2 oder 3. Letzte Chance. Vorbei.</title>
+      <link>https://www.agile-podcast.de/blog/folge-11-soziokrathie-systemisches-konsensieren/</link>
+      <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/folge-11-soziokrathie-systemisches-konsensieren/</guid>
+      <description>Das Leben ist vollgestopft mit dieser Aufgabe, trotzdem hadern wir oft mit dem Thema. Wer darf Sie treffen? Wie sollen wir Sie erarbeiten? Wann ist sie gut/schlecht? Entscheidet selber.</description>
+    </item>
     
     <item>
       <title>Ego-Eco / Retro-Coach</title>
@@ -30,20 +39,11 @@
     </item>
     
     <item>
-      <title>1,2 oder 3. Letzte Chance. Vorbei.</title>
-      <link>https://www.agile-podcast.de/blog/folge-12-entscheidungen-in-gruppe/</link>
-      <pubDate>Tue, 21 Jul 2020 15:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/blog/folge-12-entscheidungen-in-gruppe/</guid>
-      <description>Das Leben ist vollgestopft mit dieser Aufgabe, trotzdem hadern wir oft mit dem Thema. Wer darf Sie treffen? Wie sollen wir Sie erarbeiten? Wann ist sie gut/schlecht? Entscheidet selber.</description>
-    </item>
-    
-    <item>
       <title>Die bewegte Firma. </title>
-      <link>https://www.agile-podcast.de/blog/folge-11-die-bewegte-firma/</link>
+      <link>https://www.agile-podcast.de/blog/folge-12-die-bewegte-firma/</link>
       <pubDate>Tue, 21 Jul 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-11-die-bewegte-firma/</guid>
+      <guid>https://www.agile-podcast.de/blog/folge-12-die-bewegte-firma/</guid>
       <description>Wir sprechen zusammen mit der Beraterin &amp;amp; Trainerin für Organisationsentwicklung Monika Dimitrakopoulos Gratz über Ihre Erfahrungen aus über 20 Jahren Begleitung von Change in Firmen.</description>
     </item>
     
