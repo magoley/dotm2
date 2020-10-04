@@ -1,0 +1,165 @@
+######################## default configuration ####################
+baseURL = "https://www.agile-podcast.de/"
+languageCode = "de-de"
+title = "Daily of the Month"
+theme = "liva-hugo"
+summaryLength = "30"
+paginate = 6
+disqusShortname = ""
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/venobox/venobox.css"
+   [[params.plugins.css]]
+  URL = "plugins/icomoon/style.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/venobox/venobox.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+  
+############################## navigation ###############################
+[menu]
+  
+  # main menu
+  [[menu.main]]
+  name = "Folgen"
+  URL = "blog"
+  weight = 1
+  
+  [[menu.main]]
+  name = "Über uns"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Kontakt"
+  URL = "contact"
+  weight = 3
+
+  # footer menu
+  [[menu.footer]]
+  name = "Über uns"
+  URL = "about"
+  weight = 1
+  
+  [[menu.footer]]
+  name = "Folgen"
+  URL = "blog"
+  weight = 2
+  
+  [[menu.footer]]
+  name = "Kontakt"
+  URL = "contact"
+  weight = 3
+
+ [[menu.footer]]
+  name = "Impressum"
+  URL = "imprint/imprint"
+  weight = 3
+
+   [[menu.footer]]
+  name = "Datenschutz"
+  URL = "imprint/datenschutz"
+  weight = 4
+
+#################### default parameters ################################
+[params]
+logo = "images/dotm-logo.png"
+home = "Home"
+# Meta data
+description = "Der Aachener Agile PodCast über Zusammenarbeit in agilen Organisationen. Scrum, Agile Methoden, Neue Autorität, "
+author = "Daily of the Month"
+# Google Analitycs
+googleAnalitycsID = "UA-163562390-1"
+# Contact Information
+mobile = "(nach Einladung)"
+email = "post@dailyofthemonth.de"
+location = "Aachen, NRW"
+# copyright
+copyright = "| copyright Daily of the Month &copy; 2020, Layout adapted from [Themefisher](https://themefisher.com) All Rights Reserved |"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  preloader = "" # use .png , .svg or .gif format
+
+  # search
+  [params.search]
+  enable = true
+
+############################ news letter ########################
+[params.newsletter]
+enable = true
+title = "Join Our Newsletter"
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+
+############################# social site ########################
+[[params.social]]
+title = "Spotify"
+icon = "icon-spotify" # icomoon : https://icomoon.io/
+link = "https://open.spotify.com/show/4JANI1W2ViEnYWrT3NEBuE?si=w_W_gFNUQI-RZP4Jp5523w"
+
+[[params.social]]
+title = "Google Podcast"
+icon = "icon-google" # themify icon : https://themify.me/themify-icons
+link = "https://podcasts.google.com/?feed=aHR0cHM6Ly9kYWlseW9mdGhlbW9udGgucG9kaWdlZS5pby9mZWVkL21wMw&ved=0CAQQrrcFahcKEwi4rN2Kg-vnAhUAAAAAHQAAAAAQAQ"
+
+[[params.social]]
+title = "itunes"
+icon = "icon-apple" # themify icon : https://themify.me/themify-icons
+link = "https://podcasts.apple.com/de/podcast/daily-of-the-month/id1487364291"
+
+[[params.social]]
+title = "PocketCast"
+icon = "icon-bullhorn" # themify icon : https://themify.me/themify-icons ti-github
+link = "https://pca.st/podcast/6e6ff4c0-2f19-0138-96e3-0acc26574db2"
+
+[[params.social]]
+title = "Deezer"
+icon = "icon-headphones" # themify icon : https://themify.me/themify-icons
+link = "https://www.deezer.com/show/663002"
+
+[[params.social]]
+title = "Stitcher"
+icon = "ti-volume" # themify icon : https://themify.me/themify-icons
+link = "https://www.stitcher.com/s?fid=508697&refid=stpr"
+
+
+# [[params.social]]
+#  title = "github"
+# icon = "icon-github" # themify icon : https://themify.me/themify-icons ti-github
+# link = "https://github.com/magoley/dotm2"
+
+[[params.social]]
+title = "Player FM"
+icon = "icon-podcast" # themify icon : https://themify.me/themify-icons ti-github
+link = "https://player.fm/series/2774106"
+
+
+
