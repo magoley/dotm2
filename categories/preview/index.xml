@@ -6,27 +6,45 @@
     <description>Recent content in Preview on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 19 Oct 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 15:41:36 +0200</lastBuildDate>
     
 	<atom:link href="https://www.agile-podcast.de/categories/preview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Design trifft Entwicklung</title>
-      <link>https://www.agile-podcast.de/blog/folge-13-teamplay-design-and-development-kopie/</link>
+      <title>UX vs. Design</title>
+      <link>https://www.agile-podcast.de/blog/folge-13-ux-vs-design/</link>
+      <pubDate>Thu, 19 Nov 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/folge-13-ux-vs-design/</guid>
+      <description>Was ist die richtige richtige Team-Struktur für gute Produkte? Und was hat das mit einer schwedischen Kinderbuchautorin zu tun? Wir klären das mit Dr. Björn Ganslandt und Richard Brettschneider.</description>
+    </item>
+    
+    <item>
+      <title>Building innovation eco-systems</title>
+      <link>https://www.agile-podcast.de/blog/folge-14-innovation-coworking/</link>
       <pubDate>Mon, 19 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-13-teamplay-design-and-development-kopie/</guid>
-      <description>How better communication between designers &amp;amp; developers will improve your product.</description>
+      <guid>https://www.agile-podcast.de/blog/folge-14-innovation-coworking/</guid>
+      <description>Jara Pascual erklärt uns, wie eine Innovations-Gemeinschaft im Zusammenschluss von Uni, Start-ups und Industrie laufen lernt.</description>
     </item>
     
     <item>
       <title>Einfach komplex.</title>
-      <link>https://www.agile-podcast.de/blog/folge-14-einfach-komplexit%C3%A4t-besprechen/</link>
+      <link>https://www.agile-podcast.de/blog/folge-15-einfach-komplexit%C3%A4t-besprechen/</link>
       <pubDate>Mon, 19 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-14-einfach-komplexit%C3%A4t-besprechen/</guid>
-      <description>Wir sprechen mit XY über Komplexitätstheorie lorem ipsum delarus de Appelmus.</description>
+      <guid>https://www.agile-podcast.de/blog/folge-15-einfach-komplexit%C3%A4t-besprechen/</guid>
+      <description>Bereit machen zum Tauchen: Wir steigen in die Tiefen der Komplexitätstheorie und Emergenz herab und beleuchten Meerestiere, die im Alltag häufig im Verborgenen schwimmen.</description>
+    </item>
+    
+    <item>
+      <title>Your Daily Birthday #1</title>
+      <link>https://www.agile-podcast.de/blog/geburtstagsfolge-20/</link>
+      <pubDate>Mon, 19 Oct 2020 15:41:36 +0200</pubDate>
+      
+      <guid>https://www.agile-podcast.de/blog/geburtstagsfolge-20/</guid>
+      <description>Über die Geburtstagsfolge  Der Daily feiert seinen ersten Kindergeburtstag und das mitten in den Wirren der Corona-Krise. Egal, wir haben uns einen Original Scrum- und Birthday-Master in die Show geholt und blicken zurück auf ein Jahr Podcasting-Achterbahn.</description>
     </item>
     
     <item>
@@ -39,16 +57,6 @@
       Change management vis 02
       Change management vis 03
      Wir sprechen zusammen mit der Beraterin &amp;amp; Trainerin für Organisationsentwicklung Monika Dimitrakopoulos Gratz über Ihre Erfahrungen aus über 20 Jahren Begleitung von Change in Firmen.</description>
-    </item>
-    
-    <item>
-      <title>Diesseits der Stille</title>
-      <link>https://www.agile-podcast.de/blog/folge-15-power-of-quiet/</link>
-      <pubDate>Thu, 15 Oct 2020 15:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/blog/folge-15-power-of-quiet/</guid>
-      <description>How better communication between designers &amp;amp; developers will improve your product.
-Susan Cain brach mit Ihrem Buch &amp;ldquo;Quiet&amp;rdquo; eine Lanze für Menschen, die häufig mit dem Label &amp;ldquo;introvertiert&amp;rdquo; bezeichnet werden: Sie stellte klar, dass dieser Charakterzug keine &amp;ldquo;Schwäche&amp;rdquo; sondern vor allem ein großen Potenzial darstellt.</description>
     </item>
     
     <item>
@@ -93,7 +101,7 @@ Susan Cain brach mit Ihrem Buch &amp;ldquo;Quiet&amp;rdquo; eine Lanze für Mens
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.agile-podcast.de/blog/folge-n/</guid>
-      <description>Wir wollen es ja nicht übertreiben mit der Langfristplanung. Daher seht es uns nach, dass die weiteren Folge noch nicht feststehen. Fest steht einzig, dass wir noch viele Ideen und Gedanken im Köcher haben.</description>
+      <description>Wir wollen es ja nicht übertreiben mit der Langfristplanung. Daher seht es uns nach, dass die weiteren Folge noch nicht feststehen. Stay tuned.</description>
     </item>
     
   </channel>
