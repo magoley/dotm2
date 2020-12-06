@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.agile-podcast.de/tags/authentizit%C3%A4t/</loc>
-    <lastmod>2020-11-19T15:41:36+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.agile-podcast.de/categories/</loc>
     <lastmod>2020-11-19T15:41:36+02:00</lastmod>
   </url>
@@ -18,7 +13,17 @@
   </url>
   
   <url>
+    <loc>https://www.agile-podcast.de/tags/dev/</loc>
+    <lastmod>2020-11-19T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.agile-podcast.de/categories/preview/</loc>
+    <lastmod>2020-11-19T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/r%C3%A4ubertochter/</loc>
     <lastmod>2020-11-19T15:41:36+02:00</lastmod>
   </url>
   
@@ -28,8 +33,18 @@
   </url>
   
   <url>
-    <loc>https://www.agile-podcast.de/blog/folge-13-ux-vs-design/</loc>
+    <loc>https://www.agile-podcast.de/tags/ux/</loc>
     <lastmod>2020-11-19T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/blog/folge-13-ux-vs-development/</loc>
+    <lastmod>2020-11-19T15:41:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.agile-podcast.de/tags/authentizit%C3%A4t/</loc>
+    <lastmod>2020-10-19T15:41:36+02:00</lastmod>
   </url>
   
   <url>
