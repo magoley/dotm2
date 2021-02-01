@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/search/</link>
+    <link>/search/</link>
     <description>Recent content in Search Result on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/search/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

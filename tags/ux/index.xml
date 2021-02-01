@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UX on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/ux/</link>
+    <link>/tags/ux/</link>
     <description>Recent content in UX on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 19 Nov 2020 15:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>UX vs. Development</title>
-      <link>https://www.agile-podcast.de/blog/folge-13-ux-vs-development/</link>
+      <link>/blog/folge-13-ux-vs-development/</link>
       <pubDate>Thu, 19 Nov 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-13-ux-vs-development/</guid>
+      <guid>/blog/folge-13-ux-vs-development/</guid>
       <description>Über die Folge Was ist die richtige Team-Struktur für gute Produkte? Und was hat das alles mit einer schwedischen Kinderbuchautorin zu tun? Wir klären das auf mit Dr. Björn Ganslandt und Richard Bretschneider.</description>
     </item>
     

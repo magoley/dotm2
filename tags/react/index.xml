@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/react/</link>
+    <link>/tags/react/</link>
     <description>Recent content in React on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 06 Mar 2019 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/react/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fliegendes Klassenzimmer</title>
-      <link>https://www.agile-podcast.de/blog/folge-5-agile-schule/</link>
+      <link>/blog/folge-5-agile-schule/</link>
       <pubDate>Wed, 06 Mar 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-5-agile-schule/</guid>
+      <guid>/blog/folge-5-agile-schule/</guid>
       <description>Wie sollen wir später im Beruf Selbstorganisation im Blut haben, wenn unsere Schulen das nicht intravenös injezieren? Was tut sich dazu bereits in unseren Bildungsstätten? Lust auf eine Stunde nachsitzen im PodCast?</description>
     </item>
     
     <item>
       <title>Aber bitte mit Soze</title>
-      <link>https://www.agile-podcast.de/blog/folge-6-sozialarbeiter-gruppendynamik/</link>
+      <link>/blog/folge-6-sozialarbeiter-gruppendynamik/</link>
       <pubDate>Mon, 11 Feb 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-6-sozialarbeiter-gruppendynamik/</guid>
+      <guid>/blog/folge-6-sozialarbeiter-gruppendynamik/</guid>
       <description>Nächste Perspektivdrehung führt uns in den Bereich der sozialen Arbeit. Ist die Selbstorganisation hier ein Selbstläufer? Lernt hier auch der Agile-Zirkushund noch neue Tricks? Finden wir es gemeinsam raus.</description>
     </item>
     
     <item>
       <title>Einfach nur ich</title>
-      <link>https://www.agile-podcast.de/blog/folge-7-authentisch-sein/</link>
+      <link>/blog/folge-7-authentisch-sein/</link>
       <pubDate>Mon, 11 Feb 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-7-authentisch-sein/</guid>
+      <guid>/blog/folge-7-authentisch-sein/</guid>
       <description>In Teams prallen verschiedene Bedürfnisse aufeinander. Das, was uns unterscheidet, ist aber auch der Motor für die Leistung der Gruppe. Aber wie viel &amp;ldquo;ich&amp;rdquo; ist gesund? 3 Egos werden sich der Frage annehmen</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/categories/news/</link>
+    <link>/categories/news/</link>
     <description>Recent content in News on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 15 Oct 2020 15:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crossover-Event mit dem Scrumtisch AC</title>
-      <link>https://www.agile-podcast.de/blog/event-1-liberating-structures/</link>
+      <link>/blog/event-1-liberating-structures/</link>
       <pubDate>Thu, 15 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/event-1-liberating-structures/</guid>
+      <guid>/blog/event-1-liberating-structures/</guid>
       <description>Gemeinsam mit unserem nächsten Gast Birgit Nieschalk und zusamen mit dem Scrumtisch Aachen laden wir zur Praxis-Session &amp;ldquo;Experience Liberating Structures&amp;rdquo;. am 25.01.2021 um 18:30 Uhr.</description>
     </item>
     

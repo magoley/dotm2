@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>startup on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/startup/</link>
+    <link>/tags/startup/</link>
     <description>Recent content in startup on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 10 Nov 2019 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/startup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>https://www.agile-podcast.de/blog/folge-0-intro/</link>
+      <link>/blog/folge-0-intro/</link>
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-0-intro/</guid>
+      <guid>/blog/folge-0-intro/</guid>
       <description>Klassiker: Den ersten Sprung ins kalte Wasser haben wir direkt aufgenommen. In der Folge erläutern wir, warum und für wen wir unter die PodCastLer gegangen sind. Und teilen weitere Verrücktheiten, die im Kontext unseres frisch geschlüpften PodCast-Küken Daily of the Month entstanden sind.</description>
     </item>
     

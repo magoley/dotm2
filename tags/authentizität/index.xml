@@ -2,48 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authentizität on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/authentizit%C3%A4t/</link>
+    <link>/tags/authentizit%C3%A4t/</link>
     <description>Recent content in Authentizität on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 19 Oct 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 15:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/authentizit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/authentizit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Einfach komplex. Aber Lebendig.</title>
-      <link>https://www.agile-podcast.de/blog/folge-15-einfach-komplexit%C3%A4t-besprechen/</link>
-      <pubDate>Mon, 19 Oct 2020 15:41:36 +0200</pubDate>
+      <title>Emergenz schlägt Komplexität.</title>
+      <link>/blog/folge-15-emergenz-schl%C3%A4gt-komplexit%C3%A4t/</link>
+      <pubDate>Sun, 31 Jan 2021 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-15-einfach-komplexit%C3%A4t-besprechen/</guid>
-      <description>Bereit machen zum Tauchen: Wir steigen in die Tiefen der Komplexitätstheorie und Emergenz herab und beleuchten Meerestiere, die im Alltag häufig im Verborgenen schwimmen.</description>
+      <guid>/blog/folge-15-emergenz-schl%C3%A4gt-komplexit%C3%A4t/</guid>
+      <description>Über die Folge Bereit machen zum Tauchen: Wir steigen in die Tiefen der Komplexitätstheorie und Emergenz herab und beleuchten Meerestiere, die im Alltag häufig im Verborgenen schwimmen.
+Emergenz ist ein Phänomen, dass im Kontext von komplexen Systemen auftritt.</description>
     </item>
     
     <item>
       <title>Crossover-Event mit dem Scrumtisch AC</title>
-      <link>https://www.agile-podcast.de/blog/event-1-liberating-structures/</link>
+      <link>/blog/event-1-liberating-structures/</link>
       <pubDate>Thu, 15 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/event-1-liberating-structures/</guid>
+      <guid>/blog/event-1-liberating-structures/</guid>
       <description>Gemeinsam mit unserem nächsten Gast Birgit Nieschalk und zusamen mit dem Scrumtisch Aachen laden wir zur Praxis-Session &amp;ldquo;Experience Liberating Structures&amp;rdquo;. am 25.01.2021 um 18:30 Uhr.</description>
     </item>
     
     <item>
       <title>Lasst uns Mauern einreißen</title>
-      <link>https://www.agile-podcast.de/blog/folge-16-liberating-structures/</link>
+      <link>/blog/folge-16-liberating-structures/</link>
       <pubDate>Thu, 15 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-16-liberating-structures/</guid>
+      <guid>/blog/folge-16-liberating-structures/</guid>
       <description>Praxis-Talk zu Liberating Structures: 33 Methoden um Veränderungen in die Art und Weise einzubringen, wie wir uns besprechen, planen, entscheiden und in Verbindung stehen.</description>
     </item>
     
     <item>
       <title>Authent-Ich</title>
-      <link>https://www.agile-podcast.de/blog/folge-9-authentisch-sein/</link>
+      <link>/blog/folge-9-authentisch-sein/</link>
       <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-9-authentisch-sein/</guid>
+      <guid>/blog/folge-9-authentisch-sein/</guid>
       <description>In Teams prallen verschiedene Bedürfnisse aufeinander. Das, was uns unterscheidet, ist aber auch der Motor für die Leistung der Gruppe. Aber wie viel &amp;ldquo;ich&amp;rdquo; ist gesund? 3 Egos werden sich der Frage annehmen.</description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wertschätzung on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/wertsch%C3%A4tzung/</link>
+    <link>/tags/wertsch%C3%A4tzung/</link>
     <description>Recent content in Wertschätzung on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/wertsch%C3%A4tzung/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/wertsch%C3%A4tzung/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aber bitte mit Soze</title>
-      <link>https://www.agile-podcast.de/blog/folge-8-sozialarbeiter-gruppendynamik/</link>
+      <link>/blog/folge-8-sozialarbeiter-gruppendynamik/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-8-sozialarbeiter-gruppendynamik/</guid>
+      <guid>/blog/folge-8-sozialarbeiter-gruppendynamik/</guid>
       <description>Nächste Perspektivdrehung führt uns in den Bereich der sozialen Arbeit. Ist Selbstorganisation hier ein Selbstläufer? Lernt hier der Agile-Zirkushund noch neue Tricks? Finden wir es gemeinsam raus.
 Intro Was in der IT-Welt vor einiger Zeit mal ein großer Schritt war&amp;hellip;</description>
     </item>
     
     <item>
       <title>Fliegendes Klassenzimmer</title>
-      <link>https://www.agile-podcast.de/blog/folge-6-agile-schule/</link>
+      <link>/blog/folge-6-agile-schule/</link>
       <pubDate>Fri, 08 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-6-agile-schule/</guid>
+      <guid>/blog/folge-6-agile-schule/</guid>
       <description>Euer verhaltensorigineller PodCast spricht mit Führungspersönlichkeiten aus Aachener Schulen, in denen Selbstorganisation und Authorität durch Beziehung nicht nur als frommer Wunsch an der Wand hängt sondern bereits programmatisch verankert wurde.</description>
     </item>
     

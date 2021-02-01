@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imprints on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/imprint/</link>
+    <link>/imprint/</link>
     <description>Recent content in Imprints on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 06 Apr 2020 19:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/imprint/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/imprint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenschutz</title>
-      <link>https://www.agile-podcast.de/imprint/datenschutz/</link>
+      <link>/imprint/datenschutz/</link>
       <pubDate>Mon, 06 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/imprint/datenschutz/</guid>
+      <guid>/imprint/datenschutz/</guid>
       <description>Datenschutzerklärung Die Nutzung unserer Website ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis.</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://www.agile-podcast.de/imprint/imprint/</link>
+      <link>/imprint/imprint/</link>
       <pubDate>Sat, 06 Apr 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/imprint/imprint/</guid>
+      <guid>/imprint/imprint/</guid>
       <description>Die Betreiber der Seite sind  Chris Magoley – chris[at]dailyofthemonth.de Joshua Baker – joshua[at]dailyofthemonth.de Markus Rossmann – markus[at]dailyofthemonth.de  Kontaktieren Sie uns bitte per Mail: “post[at]dailyofthemonth.de“
 Angaben gemäß § 5 TMG Chris Magoley Schönforststr.</description>
     </item>

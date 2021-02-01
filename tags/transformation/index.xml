@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transformation on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/transformation/</link>
+    <link>/tags/transformation/</link>
     <description>Recent content in Transformation on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 18 Oct 2020 15:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/transformation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/transformation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Die bewegte Firma. </title>
-      <link>https://www.agile-podcast.de/blog/folge-12-change-management/</link>
+      <link>/blog/folge-12-change-management/</link>
       <pubDate>Sun, 18 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-12-change-management/</guid>
+      <guid>/blog/folge-12-change-management/</guid>
       <description>Change management vis 01
       Change management vis 02
       Change management vis 03
@@ -25,10 +25,10 @@
     
     <item>
       <title>Ein bißchen BetaCodex</title>
-      <link>https://www.agile-podcast.de/blog/folge-4-beta-codex/</link>
+      <link>/blog/folge-4-beta-codex/</link>
       <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/blog/folge-4-beta-codex/</guid>
+      <guid>/blog/folge-4-beta-codex/</guid>
       <description>Unser zweiter Gast Peter Pröll, Coach und Moderator für Organisationsentwicklung &amp;amp; Agile Transformationen, stellt uns den Prinzipiensatz des BetaCodex vor.
 Was ist es? Was ist es nicht? Was sind die Benefits?</description>
     </item>

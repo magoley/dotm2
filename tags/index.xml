@@ -2,525 +2,525 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 30 Dec 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 15:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Authentizität</title>
+      <link>/tags/authentizit%C3%A4t/</link>
+      <pubDate>Sun, 31 Jan 2021 15:41:36 +0200</pubDate>
+      
+      <guid>/tags/authentizit%C3%A4t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>collaboration</title>
-      <link>https://www.agile-podcast.de/tags/collaboration/</link>
+      <link>/tags/collaboration/</link>
       <pubDate>Wed, 30 Dec 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/collaboration/</guid>
+      <guid>/tags/collaboration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>community building</title>
-      <link>https://www.agile-podcast.de/tags/community-building/</link>
+      <link>/tags/community-building/</link>
       <pubDate>Wed, 30 Dec 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/community-building/</guid>
+      <guid>/tags/community-building/</guid>
       <description></description>
     </item>
     
     <item>
       <title>innovation</title>
-      <link>https://www.agile-podcast.de/tags/innovation/</link>
+      <link>/tags/innovation/</link>
       <pubDate>Wed, 30 Dec 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/innovation/</guid>
+      <guid>/tags/innovation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEV</title>
-      <link>https://www.agile-podcast.de/tags/dev/</link>
+      <link>/tags/dev/</link>
       <pubDate>Thu, 19 Nov 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/dev/</guid>
+      <guid>/tags/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Räubertochter</title>
-      <link>https://www.agile-podcast.de/tags/r%C3%A4ubertochter/</link>
+      <link>/tags/r%C3%A4ubertochter/</link>
       <pubDate>Thu, 19 Nov 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/r%C3%A4ubertochter/</guid>
+      <guid>/tags/r%C3%A4ubertochter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UX</title>
-      <link>https://www.agile-podcast.de/tags/ux/</link>
+      <link>/tags/ux/</link>
       <pubDate>Thu, 19 Nov 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/ux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authentizität</title>
-      <link>https://www.agile-podcast.de/tags/authentizit%C3%A4t/</link>
-      <pubDate>Mon, 19 Oct 2020 15:41:36 +0200</pubDate>
-      
-      <guid>https://www.agile-podcast.de/tags/authentizit%C3%A4t/</guid>
+      <guid>/tags/ux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Change</title>
-      <link>https://www.agile-podcast.de/tags/change/</link>
+      <link>/tags/change/</link>
       <pubDate>Sun, 18 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/change/</guid>
+      <guid>/tags/change/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coaching</title>
-      <link>https://www.agile-podcast.de/tags/coaching/</link>
+      <link>/tags/coaching/</link>
       <pubDate>Sun, 18 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/coaching/</guid>
+      <guid>/tags/coaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transformation</title>
-      <link>https://www.agile-podcast.de/tags/transformation/</link>
+      <link>/tags/transformation/</link>
       <pubDate>Sun, 18 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/transformation/</guid>
+      <guid>/tags/transformation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>veränderung</title>
-      <link>https://www.agile-podcast.de/tags/ver%C3%A4nderung/</link>
+      <link>/tags/ver%C3%A4nderung/</link>
       <pubDate>Sun, 18 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/ver%C3%A4nderung/</guid>
+      <guid>/tags/ver%C3%A4nderung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gewaltfreie-kommunikation</title>
-      <link>https://www.agile-podcast.de/tags/gewaltfreie-kommunikation/</link>
+      <link>/tags/gewaltfreie-kommunikation/</link>
       <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/gewaltfreie-kommunikation/</guid>
+      <guid>/tags/gewaltfreie-kommunikation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gruppenentscheidungen</title>
-      <link>https://www.agile-podcast.de/tags/gruppenentscheidungen/</link>
+      <link>/tags/gruppenentscheidungen/</link>
       <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/gruppenentscheidungen/</guid>
+      <guid>/tags/gruppenentscheidungen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>moderation</title>
-      <link>https://www.agile-podcast.de/tags/moderation/</link>
+      <link>/tags/moderation/</link>
       <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/moderation/</guid>
+      <guid>/tags/moderation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soziokratie</title>
-      <link>https://www.agile-podcast.de/tags/soziokratie/</link>
+      <link>/tags/soziokratie/</link>
       <pubDate>Tue, 29 Sep 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/soziokratie/</guid>
+      <guid>/tags/soziokratie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>identität</title>
-      <link>https://www.agile-podcast.de/tags/identit%C3%A4t/</link>
+      <link>/tags/identit%C3%A4t/</link>
       <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/identit%C3%A4t/</guid>
+      <guid>/tags/identit%C3%A4t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mentales-training</title>
-      <link>https://www.agile-podcast.de/tags/mentales-training/</link>
+      <link>/tags/mentales-training/</link>
       <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/mentales-training/</guid>
+      <guid>/tags/mentales-training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psychologische beratung</title>
-      <link>https://www.agile-podcast.de/tags/psychologische-beratung/</link>
+      <link>/tags/psychologische-beratung/</link>
       <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/psychologische-beratung/</guid>
+      <guid>/tags/psychologische-beratung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resilienz</title>
-      <link>https://www.agile-podcast.de/tags/resilienz/</link>
+      <link>/tags/resilienz/</link>
       <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/resilienz/</guid>
+      <guid>/tags/resilienz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>selbstwirksamkeit</title>
-      <link>https://www.agile-podcast.de/tags/selbstwirksamkeit/</link>
+      <link>/tags/selbstwirksamkeit/</link>
       <pubDate>Fri, 28 Aug 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/selbstwirksamkeit/</guid>
+      <guid>/tags/selbstwirksamkeit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ego to eco</title>
-      <link>https://www.agile-podcast.de/tags/ego-to-eco/</link>
+      <link>/tags/ego-to-eco/</link>
       <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/ego-to-eco/</guid>
+      <guid>/tags/ego-to-eco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>introversion</title>
-      <link>https://www.agile-podcast.de/tags/introversion/</link>
+      <link>/tags/introversion/</link>
       <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/introversion/</guid>
+      <guid>/tags/introversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>self-awareness</title>
-      <link>https://www.agile-podcast.de/tags/self-awareness/</link>
+      <link>/tags/self-awareness/</link>
       <pubDate>Wed, 22 Jul 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/self-awareness/</guid>
+      <guid>/tags/self-awareness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>autopoiesis</title>
-      <link>https://www.agile-podcast.de/tags/autopoiesis/</link>
+      <link>/tags/autopoiesis/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/autopoiesis/</guid>
+      <guid>/tags/autopoiesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>empowerment</title>
-      <link>https://www.agile-podcast.de/tags/empowerment/</link>
+      <link>/tags/empowerment/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/empowerment/</guid>
+      <guid>/tags/empowerment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>group worker</title>
-      <link>https://www.agile-podcast.de/tags/group-worker/</link>
+      <link>/tags/group-worker/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/group-worker/</guid>
+      <guid>/tags/group-worker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sozialarbeit</title>
-      <link>https://www.agile-podcast.de/tags/sozialarbeit/</link>
+      <link>/tags/sozialarbeit/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/sozialarbeit/</guid>
+      <guid>/tags/sozialarbeit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soziales lernen</title>
-      <link>https://www.agile-podcast.de/tags/soziales-lernen/</link>
+      <link>/tags/soziales-lernen/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/soziales-lernen/</guid>
+      <guid>/tags/soziales-lernen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wertschätzung</title>
-      <link>https://www.agile-podcast.de/tags/wertsch%C3%A4tzung/</link>
+      <link>/tags/wertsch%C3%A4tzung/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/wertsch%C3%A4tzung/</guid>
+      <guid>/tags/wertsch%C3%A4tzung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile Coaching</title>
-      <link>https://www.agile-podcast.de/tags/agile-coaching/</link>
+      <link>/tags/agile-coaching/</link>
       <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/agile-coaching/</guid>
+      <guid>/tags/agile-coaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heart of Agile</title>
-      <link>https://www.agile-podcast.de/tags/heart-of-agile/</link>
+      <link>/tags/heart-of-agile/</link>
       <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/heart-of-agile/</guid>
+      <guid>/tags/heart-of-agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liberating Structures</title>
-      <link>https://www.agile-podcast.de/tags/liberating-structures/</link>
+      <link>/tags/liberating-structures/</link>
       <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/liberating-structures/</guid>
+      <guid>/tags/liberating-structures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrum</title>
-      <link>https://www.agile-podcast.de/tags/scrum/</link>
+      <link>/tags/scrum/</link>
       <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/scrum/</guid>
+      <guid>/tags/scrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrum Rudiments</title>
-      <link>https://www.agile-podcast.de/tags/scrum-rudiments/</link>
+      <link>/tags/scrum-rudiments/</link>
       <pubDate>Fri, 29 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/scrum-rudiments/</guid>
+      <guid>/tags/scrum-rudiments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Montessori</title>
-      <link>https://www.agile-podcast.de/tags/montessori/</link>
+      <link>/tags/montessori/</link>
       <pubDate>Fri, 08 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/montessori/</guid>
+      <guid>/tags/montessori/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potenzialschöpfung</title>
-      <link>https://www.agile-podcast.de/tags/potenzialsch%C3%B6pfung/</link>
+      <link>/tags/potenzialsch%C3%B6pfung/</link>
       <pubDate>Fri, 08 May 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/potenzialsch%C3%B6pfung/</guid>
+      <guid>/tags/potenzialsch%C3%B6pfung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haltung</title>
-      <link>https://www.agile-podcast.de/tags/haltung/</link>
+      <link>/tags/haltung/</link>
       <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/haltung/</guid>
+      <guid>/tags/haltung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neue Autorität</title>
-      <link>https://www.agile-podcast.de/tags/neue-autorit%C3%A4t/</link>
+      <link>/tags/neue-autorit%C3%A4t/</link>
       <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/neue-autorit%C3%A4t/</guid>
+      <guid>/tags/neue-autorit%C3%A4t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pädagogik</title>
-      <link>https://www.agile-podcast.de/tags/p%C3%A4dagogik/</link>
+      <link>/tags/p%C3%A4dagogik/</link>
       <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/p%C3%A4dagogik/</guid>
+      <guid>/tags/p%C3%A4dagogik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Widerstand</title>
-      <link>https://www.agile-podcast.de/tags/widerstand/</link>
+      <link>/tags/widerstand/</link>
       <pubDate>Wed, 15 Apr 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/widerstand/</guid>
+      <guid>/tags/widerstand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BetaCodex</title>
-      <link>https://www.agile-podcast.de/tags/betacodex/</link>
+      <link>/tags/betacodex/</link>
       <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/betacodex/</guid>
+      <guid>/tags/betacodex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organisationsentwicklung</title>
-      <link>https://www.agile-podcast.de/tags/organisationsentwicklung/</link>
+      <link>/tags/organisationsentwicklung/</link>
       <pubDate>Fri, 06 Mar 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/organisationsentwicklung/</guid>
+      <guid>/tags/organisationsentwicklung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile Manifesto</title>
-      <link>https://www.agile-podcast.de/tags/agile-manifesto/</link>
+      <link>/tags/agile-manifesto/</link>
       <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/agile-manifesto/</guid>
+      <guid>/tags/agile-manifesto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lean</title>
-      <link>https://www.agile-podcast.de/tags/lean/</link>
+      <link>/tags/lean/</link>
       <pubDate>Thu, 20 Feb 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/lean/</guid>
+      <guid>/tags/lean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rosenberg</title>
-      <link>https://www.agile-podcast.de/tags/rosenberg/</link>
+      <link>/tags/rosenberg/</link>
       <pubDate>Mon, 13 Jan 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/rosenberg/</guid>
+      <guid>/tags/rosenberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vegas regel</title>
-      <link>https://www.agile-podcast.de/tags/vegas-regel/</link>
+      <link>/tags/vegas-regel/</link>
       <pubDate>Wed, 11 Dec 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/vegas-regel/</guid>
+      <guid>/tags/vegas-regel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>working agreements</title>
-      <link>https://www.agile-podcast.de/tags/working-agreements/</link>
+      <link>/tags/working-agreements/</link>
       <pubDate>Wed, 11 Dec 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/working-agreements/</guid>
+      <guid>/tags/working-agreements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>https://www.agile-podcast.de/tags/new/</link>
+      <link>/tags/new/</link>
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/new/</guid>
+      <guid>/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Work</title>
-      <link>https://www.agile-podcast.de/tags/new-work/</link>
+      <link>/tags/new-work/</link>
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/new-work/</guid>
+      <guid>/tags/new-work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>purpose</title>
-      <link>https://www.agile-podcast.de/tags/purpose/</link>
+      <link>/tags/purpose/</link>
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/purpose/</guid>
+      <guid>/tags/purpose/</guid>
       <description></description>
     </item>
     
     <item>
       <title>startup</title>
-      <link>https://www.agile-podcast.de/tags/startup/</link>
+      <link>/tags/startup/</link>
       <pubDate>Sun, 10 Nov 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/startup/</guid>
+      <guid>/tags/startup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neue Authorität</title>
-      <link>https://www.agile-podcast.de/tags/neue-authorit%C3%A4t/</link>
+      <link>/tags/neue-authorit%C3%A4t/</link>
       <pubDate>Mon, 01 Apr 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/neue-authorit%C3%A4t/</guid>
+      <guid>/tags/neue-authorit%C3%A4t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game</title>
-      <link>https://www.agile-podcast.de/tags/game/</link>
+      <link>/tags/game/</link>
       <pubDate>Wed, 06 Mar 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/game/</guid>
+      <guid>/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://www.agile-podcast.de/tags/photos/</link>
+      <link>/tags/photos/</link>
       <pubDate>Wed, 06 Mar 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/photos/</guid>
+      <guid>/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://www.agile-podcast.de/tags/python/</link>
+      <link>/tags/python/</link>
       <pubDate>Wed, 06 Mar 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/python/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://www.agile-podcast.de/tags/react/</link>
+      <link>/tags/react/</link>
       <pubDate>Wed, 06 Mar 2019 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/react/</guid>
+      <guid>/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zukunftsgedanken</title>
-      <link>https://www.agile-podcast.de/tags/zukunftsgedanken/</link>
+      <link>/tags/zukunftsgedanken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.agile-podcast.de/tags/zukunftsgedanken/</guid>
+      <guid>/tags/zukunftsgedanken/</guid>
       <description></description>
     </item>
     

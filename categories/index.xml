@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Daily of the Month</title>
-    <link>https://www.agile-podcast.de/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Daily of the Month</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 30 Dec 2020 15:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 15:41:36 +0200</lastBuildDate>
     
-	<atom:link href="https://www.agile-podcast.de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Preview</title>
-      <link>https://www.agile-podcast.de/categories/preview/</link>
-      <pubDate>Wed, 30 Dec 2020 15:41:36 +0200</pubDate>
+      <link>/categories/preview/</link>
+      <pubDate>Sun, 31 Jan 2021 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/categories/preview/</guid>
+      <guid>/categories/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://www.agile-podcast.de/categories/news/</link>
+      <link>/categories/news/</link>
       <pubDate>Thu, 15 Oct 2020 15:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/categories/news/</guid>
+      <guid>/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Folge</title>
-      <link>https://www.agile-podcast.de/categories/folge/</link>
+      <link>/categories/folge/</link>
       <pubDate>Wed, 17 Jun 2020 19:41:36 +0200</pubDate>
       
-      <guid>https://www.agile-podcast.de/categories/folge/</guid>
+      <guid>/categories/folge/</guid>
       <description></description>
     </item>
     
